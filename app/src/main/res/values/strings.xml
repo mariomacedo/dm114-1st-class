@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidProject01</string>
+    <string name="str_name">Name:</string>
+    <string name="str_description">Description:</string>
+    <string name="str_code">Code:</string>
+    <string name="price">Price:</string>
+</resources>
